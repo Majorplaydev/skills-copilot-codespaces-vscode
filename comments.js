@@ -73,4 +73,4 @@ const { authorizeCommentBlockDelete } = require('../middleware/authorizeCommentB
 const { authorizeCommentUnblock } = require('../middleware/authorizeCommentUnblock');
 
 // Import Authentication Middleware
-const { authorizeCommentUnblockUpdate } = require('../middleware/authorizeCommentUnblockUpdate
+const { authorizeCommentUnblockUpdate } = require('../middleware/authorizeCommentUnblockUpdate');
